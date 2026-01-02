@@ -1,0 +1,9 @@
+
+{
+  "name": "BotWave AI Pro",
+  "description": "Next-gen AI assistant with Live Voice, Squad Collaboration, and Premium UI. Engineered by Muhammed Sabith KP.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
